@@ -10,7 +10,9 @@ body {
 }
 
 .profile-card {
-  width: 320px;
+  width: 100%;
+  max-width: 350px;
+  height: auto;
   background: white;
   padding: 24px;
   border-radius: 16px;
